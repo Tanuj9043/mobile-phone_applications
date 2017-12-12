@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1490537971 source:c:\my  data\ds project\mobile phone\main.cpp
+	<iostream>
+	<stdio.h>
+	"Graph.h"
+	"Hash_Table_Contact.h"
+	"Infix_To_Postfix.h"
+	"Evaluate_Postfix.h"
+	"Trie.h"
+	"Word_Trie.h"
+	"Edit_Distance.h"
+	"Box.h"
+	<stdlib.h>
+	<cstring>
+	<fstream>
+	<windows.h>
+
+1489068410 c:\my  data\ds project\mobile phone\graph.h
+	"Linked_List.h"
+	"Queue.h"
+	<cstring>
+
+1487174109 c:\my  data\ds project\mobile phone\linked_list.h
+	"Linked_List_Node.h"
+	<cstring>
+
+1488977657 c:\my  data\ds project\mobile phone\linked_list_node.h
+	<cstring>
+
+1487174122 c:\my  data\ds project\mobile phone\queue.h
+	"Queue_Node.h"
+
+1487174098 c:\my  data\ds project\mobile phone\queue_node.h
+	"Linked_List_Node.h"
+
+1489765731 c:\my  data\ds project\mobile phone\hash_table_contact.h
+	"Hash_Node_Contact.h"
+	<cstring>
+
+1489127036 c:\my  data\ds project\mobile phone\hash_node_contact.h
+
+1489128041 c:\my  data\ds project\mobile phone\infix_to_postfix.h
+	<cstring>
+
+1489128438 c:\my  data\ds project\mobile phone\evaluate_postfix.h
+	<cstring>
+
+1489671335 c:\my  data\ds project\mobile phone\trie.h
+	"Trie_Node.h"
+	"Hash_Table_Contact.h"
+
+1489670573 c:\my  data\ds project\mobile phone\trie_node.h
+	"Hash_Table_Contact.h"
+	<cstring>
+
+1490016959 c:\my  data\ds project\mobile phone\word_trie.h
+	<unordered_map>
+
+1490017064 c:\my  data\ds project\mobile phone\edit_distance.h
+	<cstring>
+
+1490535872 c:\my  data\ds project\mobile phone\box.h
+	<windows.h>
+
